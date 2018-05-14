@@ -1,0 +1,14 @@
+body {
+    background-color: fuchsia;
+    color: #ffffff;
+    font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+h1 {
+    color: yellow;
+}
